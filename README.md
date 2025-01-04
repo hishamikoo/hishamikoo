@@ -4,16 +4,16 @@
 
 - <b>Emotional Cognition Through Voice Tone Analysis (Machine Learning) </b>
   - This research contributes to the development of emotionally intelligent robotic systems, bridging the gap between functional support and meaningful engagement in human-robot collaborations.
-  - [Detailed Analysis](https://github.com/hishamikoo/Emotional-Cognition-Through-Voice-Tone-Analysis/blob/main/Emotional%20Cognition%20Through%20Voice%20Tone%20Analysis.pdf)
+  - [View Project](https://github.com/hishamikoo/Emotional-Cognition-Through-Voice-Tone-Analysis/blob/main/Emotional%20Cognition%20Through%20Voice%20Tone%20Analysis.pdf)
 - <b>Neural Networks - MLP vs MCP</b>
   - This research explores the performance of neural networks (MLP vs. MCP) compared to traditional classifiers (KNN and Naïve Bayes). It aims to analyze their accuracy, efficiency, and suitability for various datasets to determine the optimal approach for different classification tasks.
-  - [Detailed Analysis](https://github.com/hishamikoo/Neural-Networks-MLP-vs-MCP/blob/main/MLP%20vs%20MCP.pdf)
+  - [View Project](https://github.com/hishamikoo/Neural-Networks-MLP-vs-MCP/blob/main/MLP%20vs%20MCP.pdf)
 - <b>Ethical Risk Analysis in Autonomous Driving</b>
   - This paper conducts a comprehensive ethical risk and benefit analysis of autonomous driving across all levels of automation, from Level 0 (no automation) to Level 5 (full automation).
-  - [Detailed Analysis](https://github.com/hishamikoo/Ethical-Risk-Analysis-in-Autonomous-Driving/blob/main/Ethical%20Risk%20Analysis%20in%20Autonomous%20Driving.pdf)
+  - [View Project](https://github.com/hishamikoo/Ethical-Risk-Analysis-in-Autonomous-Driving/blob/main/Ethical%20Risk%20Analysis%20in%20Autonomous%20Driving.pdf)
 - <b>Biases-In-AI-Based-Risk-Estimation</b>
   - This paper examines biases in AI-based risk estimation, focusing on the ethical implications of recidivism prediction systems. It emphasizes the need to balance fairness, accuracy, and transparency while addressing biases that disproportionately affect vulnerable groups.
-  - [Detailed Analysis](https://github.com/hishamikoo/Biases-In-AI-Based-Risk-Estimation/blob/main/Biases%20in%20AI-based%20Risk%20Estimation.pdf)
+  - [View Project](https://github.com/hishamikoo/Biases-In-AI-Based-Risk-Estimation/blob/main/Biases%20in%20AI-based%20Risk%20Estimation.pdf)
 
 
 <h2>📜 Certifications and Skills</h2>
