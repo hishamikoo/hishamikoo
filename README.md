@@ -1,22 +1,20 @@
-<h1>Hi there 👋, I'm Hisham! <br/><a href="https://www.credly.com/badges/2e1c16a0-c17d-4310-9d2a-f544c2381afb">AWS Ceritified AI Practitioner</a>, <a href="https://www.linkedin.com/in/hisham-javaid-6001b81b2/details/experience/">IT/Software Engineer</a>, <a href="https://github.com/hishamikoo?tab=stars">ML Specialist</a></h1>
+<h1>Hi there 👋, I'm Hisham! <br/><br/><a href="https://www.credly.com/badges/2e1c16a0-c17d-4310-9d2a-f544c2381afb">AWS Ceritified AI Practitioner</a>, <a href="https://www.linkedin.com/in/hisham-javaid-6001b81b2/details/experience/">IT/Software Engineer</a>, <a href="https://github.com/hishamikoo?tab=stars">ML Specialist</a></h1>
 
 <h2>👨‍💻 Research Projects & Experiments:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Emotional Cognition Through Voice Tone Analysis (Machine Learning) </b>
+  - This research contributes to the development of emotionally intelligent robotic systems, bridging the gap between functional support and meaningful engagement in human-robot collaborations.
+  - [Detailed Analysis](https://github.com/hishamikoo/Emotional-Cognition-Through-Voice-Tone-Analysis/blob/main/Emotional%20Cognition%20Through%20Voice%20Tone%20Analysis.pdf)
+- <b>Neural Networks - MLP vs MCP</b>
+  - This research explores the performance of neural networks (MLP vs. MCP) compared to traditional classifiers (KNN and Naïve Bayes). It aims to analyze their accuracy, efficiency, and suitability for various datasets to determine the optimal approach for different classification tasks.
+  - [Detailed Analysis](https://github.com/hishamikoo/Neural-Networks-MLP-vs-MCP/blob/main/MLP%20vs%20MCP.pdf)
+- <b>Ethical Risk Analysis in Autonomous Driving</b>
+  - This paper conducts a comprehensive ethical risk and benefit analysis of autonomous driving across all levels of automation, from Level 0 (no automation) to Level 5 (full automation).
+  - [Detailed Analysis](https://github.com/hishamikoo/Ethical-Risk-Analysis-in-Autonomous-Driving/blob/main/Ethical%20Risk%20Analysis%20in%20Autonomous%20Driving.pdf)
+- <b>Biases-In-AI-Based-Risk-Estimation</b>
+  - This paper examines biases in AI-based risk estimation, focusing on the ethical implications of recidivism prediction systems. It emphasizes the need to balance fairness, accuracy, and transparency while addressing biases that disproportionately affect vulnerable groups.
+  - [Detailed Analysis](https://github.com/hishamikoo/Biases-In-AI-Based-Risk-Estimation/blob/main/Biases%20in%20AI-based%20Risk%20Estimation.pdf)
+
 
 <h2>📜 Certifications and Skills</h2>
 
