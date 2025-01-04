@@ -1,11 +1,11 @@
 <h1>Hi there 👋, I'm Hisham! <br/><br/><a href="https://www.credly.com/badges/2e1c16a0-c17d-4310-9d2a-f544c2381afb">AWS Ceritified AI Practitioner</a>, <a href="https://www.linkedin.com/in/hisham-javaid-6001b81b2/details/experience/">IT/Software Engineer</a>, <a href="https://github.com/hishamikoo?tab=stars">ML Specialist</a></h1>
-
+<br/>
 <h2>🔭 I’m currently working on:</h2>
 <b>Detecting Deepfake Audio Using AI</b>
 
 - The aim of this project is to develop a machine learning model capable of accurately detecting deepfake audio by analyzing and distinguishing between real and AI-generated audio clips. Using a dataset of over 2,000 audio samples, the model is trained on various audio features, including file size, spectral centroid mean, spectral bandwidth mean, RMS mean, zero-crossing rate mean, spectral contrast mean, pitch mean, pitch confidence mean, mel spectrogram mean, mel spectrogram variance, energy mean, and speech rate, to identify patterns and markers indicative of deepfake audio.
 - [View Progress](https://colab.research.google.com/drive/1eTii3rWVMey6i4jALlLkaHUTFsFgp56S)
-
+<br/>
 <h2>👨‍💻 Projects & Research Experiments:</h2>
 
 - <b>Emotional Cognition Through Voice Tone Analysis (Machine Learning) </b>
@@ -20,7 +20,7 @@
 - <b>Biases-In-AI-Based-Risk-Estimation</b>
   - This paper examines biases in AI-based risk estimation, focusing on the ethical implications of recidivism prediction systems. It emphasizes the need to balance fairness, accuracy, and transparency while addressing biases that disproportionately affect vulnerable groups.
   - [View Project](https://github.com/hishamikoo/Biases-In-AI-Based-Risk-Estimation/blob/main/Biases%20in%20AI-based%20Risk%20Estimation.pdf)
-
+<br/>
 
 <h2>📜 Certifications and Skills</h2>
 
@@ -30,10 +30,10 @@
 - [[Harvard University] Computer Science For Lawyers](https://certificates.cs50.io/fd962496-914a-4fc2-8391-373dc9d8b55b.pdf?size=letter)
 - [[Harvard University] Computer Science for Business Professionals](https://certificates.cs50.io/14a8d8ff-c1fe-42c9-9f89-6d59b6f1da9e.pdf?size=letter)
 - [[Harvard University] Understanding Technology](https://certificates.cs50.io/0342ae94-2058-4b1b-98b5-c6662d3a57c4.pdf?size=letter)
-
+<br/>
 <h2>📖Education</h2>
 BSc <i>(hons)</i> Artificial Intelligence | <b>Oxford Brookes University, Oxford, United Kingdom</b> | Sep, 2021 - May, 2025
-
+<br/><br/>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
