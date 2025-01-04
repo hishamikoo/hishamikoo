@@ -25,6 +25,9 @@
 - [[Harvard University] Computer Science for Business Professionals](https://certificates.cs50.io/14a8d8ff-c1fe-42c9-9f89-6d59b6f1da9e.pdf?size=letter)
 - [[Harvard University] Understanding Technology](https://certificates.cs50.io/0342ae94-2058-4b1b-98b5-c6662d3a57c4.pdf?size=letter)
 
+<h2>📖Education</h2>
+BSc <i>(hons)</i> Artificial Intelligence | <b>Oxford Brookes University, Oxford, United Kingdom</b> | Sep, 2021 - May, 2025
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
