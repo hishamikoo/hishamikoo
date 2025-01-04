@@ -1,5 +1,8 @@
 <h1>Hi there 👋, I'm Hisham! <br/><br/><a href="https://www.credly.com/badges/2e1c16a0-c17d-4310-9d2a-f544c2381afb">AWS Ceritified AI Practitioner</a>, <a href="https://www.linkedin.com/in/hisham-javaid-6001b81b2/details/experience/">IT/Software Engineer</a>, <a href="https://github.com/hishamikoo?tab=stars">ML Specialist</a></h1>
 
+<h2>🔭 I’m currently working on:</h2>
+<b>Detecting Deepfake Audio Using AI:</b>
+
 <h2>👨‍💻 Projects & Research Experiments:</h2>
 
 - <b>Emotional Cognition Through Voice Tone Analysis (Machine Learning) </b>
