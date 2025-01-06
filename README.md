@@ -8,6 +8,9 @@
 <br/>
 <h2>👨‍💻 Projects:</h2>
 
+- <b>TaskGen (Django)</b>
+  - TaskGen is a powerful and intuitive Django-based web application designed to create customizable task suites for developer interviews. Built to streamline the interview process, this app uses a pre-built knowledge base to generate coding tasks. It empowers users to create tailored suites of programming challenges that align with their unique requirements such as password protection and adjustable difficulty level.
+  - [View Project](https://github.com/hishamikoo/Test-Suite-Generator?tab=readme-ov-file#taskgen)
 - <b>Emotional Cognition Through Voice Tone Analysis (Machine Learning) </b>
   - This research contributes to the development of emotionally intelligent robotic systems, bridging the gap between functional support and meaningful engagement in human-robot collaborations.
   - [View Project](https://github.com/hishamikoo/Emotional-Cognition-Through-Voice-Tone-Analysis/blob/main/Emotional%20Cognition%20Through%20Voice%20Tone%20Analysis.pdf)
