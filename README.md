@@ -1,10 +1,10 @@
 <h1>Hi there 👋, I'm Hisham! <br/><br/><a href="https://www.credly.com/badges/2e1c16a0-c17d-4310-9d2a-f544c2381afb">AWS Ceritified AI Practitioner</a>, <a href="https://www.linkedin.com/in/hisham-javaid-6001b81b2/details/experience/">IT/Software Engineer</a>, <a href="https://github.com/hishamikoo?tab=stars">ML Specialist</a></h1>
 <br/>
 <h2>🔭 I’m currently working on:</h2>
-<b>Detecting Deepfake Audio Using AI</b>
+<b>WaveTruth - Detecting Deepfake Audio Using AI</b>
 
 - The aim of this project is to develop a machine learning model capable of accurately detecting deepfake audio by analyzing and distinguishing between real and AI-generated audio clips. Using a dataset of over 2,100 audio samples, the model is trained on various audio features, including file size, spectral centroid mean, spectral bandwidth mean, RMS mean, zero-crossing rate mean, spectral contrast mean, pitch mean, pitch confidence mean, mel spectrogram mean, mel spectrogram variance, energy mean, and speech rate, to identify patterns and markers indicative of deepfake audio.
-- [View Progress](https://github.com/hishamikoo/Deepfake-AI-Detection/blob/main/Progress%20Report%20-%20Deepfake%20audio%20detection.pdf)
+- [View Progress](https://github.com/hishamikoo/Deepfake-AI-Detection/blob/main/WaveTruth.pptx.pdf)
 <br/>
 <h2>👨‍💻 Projects:</h2>
 
