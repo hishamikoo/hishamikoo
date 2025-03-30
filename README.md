@@ -4,7 +4,7 @@
 <b>WaveTruth - Detecting Deepfake Audio Using AI</b>
 
 - The aim of this project is to develop a machine learning model capable of accurately detecting deepfake audio by analyzing and distinguishing between real and AI-generated audio clips. Using a dataset of around 2000 audio samples, the model is trained on various audio features, including file size, spectral centroid mean, spectral bandwidth mean, RMS mean, zero-crossing rate mean, spectral contrast mean, pitch mean, pitch confidence mean, mel spectrogram mean, mel spectrogram variance, energy mean, and speech rate, to identify patterns and markers indicative of deepfake audio.
-- [View Progress](https://github.com/hishamikoo/Deepfake-AI-Detection/blob/main/WaveTruth.pptx.pdf)
+- [View Progress](https://github.com/hishamikoo/WaveTruth-Deepfake-AI-Detection/tree/main)
 <br/>
 <h2>👨‍💻 Projects:</h2>
 
