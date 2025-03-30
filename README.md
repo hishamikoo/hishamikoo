@@ -3,7 +3,7 @@
 <h2>🔭 I’m currently working on:</h2>
 <b>WaveTruth - Detecting Deepfake Audio Using AI</b>
 
-- The aim of this project is to develop a machine learning model capable of accurately detecting deepfake audio by analyzing and distinguishing between real and AI-generated audio clips. Using a dataset of around 2000 audio samples, the model is trained on various audio features, including file size, spectral centroid mean, spectral bandwidth mean, RMS mean, zero-crossing rate mean, spectral contrast mean, pitch mean, pitch confidence mean, mel spectrogram mean, mel spectrogram variance, energy mean, and speech rate, to identify patterns and markers indicative of deepfake audio.
+- The goal of this project was to develop a deep learning model capable of detecting deepfake audio and classifying speaker gender. By creating a custom dataset of approximately 1,956 audio clips (around 2.7 hours of data) from both AI-generated and real human voices with diverse accents, key acoustic features were extracted, including spectral centroid, bandwidth, RMS, pitch, mel spectrogram, and speech rate. After evaluating various machine learning and deep learning models, Transfer Learning-based Feedforward Neural Networks (FFNN) outperformed other models, achieving over 90% accuracy in distinguishing real voices from deepfakes. The final model was integrated into a web application, allowing real-time voice classification, including AI detection and gender classification.
 - [View Progress](https://github.com/hishamikoo/WaveTruth-Deepfake-AI-Detection/tree/main)
 <br/>
 <h2>👨‍💻 Projects:</h2>
