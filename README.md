@@ -1,4 +1,10 @@
-<h1>Hi there 👋, I'm Hisham! <br/><br/><a href="https://www.credly.com/badges/2e1c16a0-c17d-4310-9d2a-f544c2381afb">AWS Ceritified AI Practitioner</a>, <a href="https://www.linkedin.com/in/hisham-javaid-6001b81b2/details/experience/">IT/Software Engineer</a>, <a href="https://github.com/hishamikoo?tab=stars">ML Specialist</a></h1>
+<h1 align="center">Hi there 👋, I'm Hisham!</h1>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/2e1c16a0-c17d-4310-9d2a-f544c2381afb"><strong>AWS Certified AI Practitioner</strong></a> •
+  <a href="https://www.linkedin.com/in/hisham-javaid-6001b81b2/details/experience/"><strong>IT/Software Engineer</strong></a> •
+  <a href="https://github.com/hishamikoo?tab=stars"><strong>ML Specialist</strong></a>
+</p>
 <br/>
 <h2>🔭 I’m currently working on:</h2>
 <b>WaveTruth - Detecting Deepfake Audio Using AI</b>
