@@ -24,7 +24,7 @@
   
 - <b>Neural Networks - MLP vs MCP</b>
   - This research explores the performance of neural networks (MLP vs. MCP) compared to traditional classifiers (KNN and Naïve Bayes). It aims to analyze their accuracy, efficiency, and suitability for various datasets to determine the optimal approach for different classification tasks.
-  - [View Project](https://github.com/hishamikoo/Neural-Networks-MLP-vs-MCP/blob/main/MLP%20vs%20MCP.pdf)
+  - [View Project](https://github.com/hishamikoo/Neural-Networks-MLP-vs-MCP/blob/main/README.md)
   
 - <b>Ethical Risk Analysis in Autonomous Driving</b>
   - This research provides a comprehensive ethical risk-benefit analysis of autonomous driving across all levels of automation, from Level 0 (no automation) to Level 5 (full automation), evaluating the societal, legal, and safety implications at each stage.
