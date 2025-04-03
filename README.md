@@ -20,7 +20,7 @@
 
 - <b>Emotional Cognition Through Voice Tone Analysis (Machine Learning) </b>
   - TThis research contributes to the development of emotionally intelligent robotic systems, bridging the gap between functional support and meaningful engagement in human-robot collaborations. Specifically, this project determines the sentiment of a speaker based on their tone, enabling robots to better understand and respond to human emotions.
-  - [View Project](https://github.com/hishamikoo/Emotional-Cognition-Through-Voice-Tone-Analysis/blob/main/Emotional%20Cognition%20Through%20Voice%20Tone%20Analysis.pdf)
+  - [View Project](https://github.com/hishamikoo/Emotional-Cognition-Through-Voice-Tone-Analysis/blob/main/README.md)
   
 - <b>Neural Networks - MLP vs MCP</b>
   - This research explores the performance of neural networks (MLP vs. MCP) compared to traditional classifiers (KNN and Naïve Bayes). It aims to analyze their accuracy, efficiency, and suitability for various datasets to determine the optimal approach for different classification tasks.
