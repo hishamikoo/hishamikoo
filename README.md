@@ -28,7 +28,7 @@
   
 - <b>Ethical Risk Analysis in Autonomous Driving</b>
   - This research provides a comprehensive ethical risk-benefit analysis of autonomous driving across all levels of automation, from Level 0 (no automation) to Level 5 (full automation), evaluating the societal, legal, and safety implications at each stage.
-  - [View Project](https://github.com/hishamikoo/Ethical-Risk-Analysis-in-Autonomous-Driving/blob/main/Ethical%20Risk%20Analysis%20in%20Autonomous%20Driving.pdf)
+  - [View Project](https://github.com/hishamikoo/Ethical-Risk-Analysis-in-Autonomous-Driving/blob/main/README.md)
   
 - <b>Biases In AI Based Risk Estimation</b>
   - This project examines biases in AI-based risk estimation, focusing on the ethical implications of recidivism prediction systems. It discovers the need to balance fairness, accuracy, and transparency while addressing biases that disproportionately affect vulnerable groups.
