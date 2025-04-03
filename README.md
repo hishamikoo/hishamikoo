@@ -9,19 +9,23 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>TaskGen (Django)</b>
-  - TaskGen is a powerful and intuitive Django-based web application designed to create customizable task suites for developer interviews. Built to streamline the interview process, this app uses a pre-built knowledge base to generate coding tasks. It empowers users to create tailored suites of programming challenges that align with their unique requirements such as password protection and adjustable difficulty level.
+  - TaskGen is an intuitive Django-based web application designed to create customizable task suites for developer interviews. Built to streamline the interview process, this app uses a pre-built knowledge base to generate coding tasks. It empowers users (Recruiters) to create tailored suites of programming challenges that align with their unique requirements such as password protection and adjustable difficulty level.
   - [View Project](https://github.com/hishamikoo/Test-Suite-Generator?tab=readme-ov-file#taskgen)
+
 - <b>Emotional Cognition Through Voice Tone Analysis (Machine Learning) </b>
-  - This research contributes to the development of emotionally intelligent robotic systems, bridging the gap between functional support and meaningful engagement in human-robot collaborations.
+  - TThis research contributes to the development of emotionally intelligent robotic systems, bridging the gap between functional support and meaningful engagement in human-robot collaborations. Specifically, this project determines the sentiment of a speaker based on their tone, enabling robots to better understand and respond to human emotions.
   - [View Project](https://github.com/hishamikoo/Emotional-Cognition-Through-Voice-Tone-Analysis/blob/main/Emotional%20Cognition%20Through%20Voice%20Tone%20Analysis.pdf)
+  
 - <b>Neural Networks - MLP vs MCP</b>
   - This research explores the performance of neural networks (MLP vs. MCP) compared to traditional classifiers (KNN and Naïve Bayes). It aims to analyze their accuracy, efficiency, and suitability for various datasets to determine the optimal approach for different classification tasks.
   - [View Project](https://github.com/hishamikoo/Neural-Networks-MLP-vs-MCP/blob/main/MLP%20vs%20MCP.pdf)
+  
 - <b>Ethical Risk Analysis in Autonomous Driving</b>
-  - This paper conducts a comprehensive ethical risk and benefit analysis of autonomous driving across all levels of automation, from Level 0 (no automation) to Level 5 (full automation).
+  - This research provides a comprehensive ethical risk-benefit analysis of autonomous driving across all levels of automation, from Level 0 (no automation) to Level 5 (full automation), evaluating the societal, legal, and safety implications at each stage.
   - [View Project](https://github.com/hishamikoo/Ethical-Risk-Analysis-in-Autonomous-Driving/blob/main/Ethical%20Risk%20Analysis%20in%20Autonomous%20Driving.pdf)
+  
 - <b>Biases In AI Based Risk Estimation</b>
-  - This paper examines biases in AI-based risk estimation, focusing on the ethical implications of recidivism prediction systems. It emphasizes the need to balance fairness, accuracy, and transparency while addressing biases that disproportionately affect vulnerable groups.
+  - This project examines biases in AI-based risk estimation, focusing on the ethical implications of recidivism prediction systems. It discovers the need to balance fairness, accuracy, and transparency while addressing biases that disproportionately affect vulnerable groups.
   - [View Project](https://github.com/hishamikoo/Biases-In-AI-Based-Risk-Estimation/blob/main/Biases%20in%20AI-based%20Risk%20Estimation.pdf)
 <br/>
 
