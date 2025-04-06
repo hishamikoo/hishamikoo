@@ -19,7 +19,7 @@
   - [View Project](https://github.com/hishamikoo/Test-Suite-Generator?tab=readme-ov-file#taskgen)
 
 - <b>Emotional Cognition Through Voice Tone Analysis (Machine Learning) </b>
-  - TThis research contributes to the development of emotionally intelligent robotic systems, bridging the gap between functional support and meaningful engagement in human-robot collaborations. Specifically, this project determines the sentiment of a speaker based on their tone, enabling robots to better understand and respond to human emotions.
+  - This research contributes to the development of emotionally intelligent robotic systems, bridging the gap between functional support and meaningful engagement in human-robot collaborations. Specifically, this project determines the sentiment of a speaker based on their tone, enabling robots to better understand and respond to human emotions.
   - [View Project](https://github.com/hishamikoo/Emotional-Cognition-Through-Voice-Tone-Analysis/blob/main/README.md)
   
 - <b>Neural Networks - MLP vs MCP</b>
