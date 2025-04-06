@@ -32,7 +32,7 @@
   
 - <b>Biases In AI Based Risk Estimation</b>
   - This project examines biases in AI-based risk estimation, focusing on the ethical implications of recidivism prediction systems. It discovers the need to balance fairness, accuracy, and transparency while addressing biases that disproportionately affect vulnerable groups.
-  - [View Project](https://github.com/hishamikoo/Biases-In-AI-Based-Risk-Estimation/blob/main/Biases%20in%20AI-based%20Risk%20Estimation.pdf)
+  - [View Project](https://github.com/hishamikoo/Biases-In-AI-Based-Risk-Estimation/tree/main?tab=readme-ov-file#%EF%B8%8F-biases-in-ai-based-risk-estimation)
 <br/>
 
 <h2>📜 Certifications and Skills</h2>
